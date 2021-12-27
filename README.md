@@ -61,8 +61,7 @@ No modules.
 
 | Name | Description |
 |------|-------------|
-| <a name="output_sqs_queue_arn"></a> [sqs\_queue\_arn](#output\_sqs\_queue\_arn) | The URL for the created Amazon SQS queue. |
-| <a name="output_sqs_queue_id"></a> [sqs\_queue\_id](#output\_sqs\_queue\_id) | The ARN of the SQS queue |
+| <a name="output_values"></a> [values](#output\_values) | The URL for the created Amazon SQS queue. |
 <!-- END OF PRE-COMMIT-TERRAFORM DOCS HOOK -->
 
 ## Test
@@ -81,4 +80,4 @@ pre-commit run -a
 
 ## Autor
  
-Module managed by [Banco Ripley Peru](https://ripley.com.pe)
+Module managed by [pquintero](https://github.com/pquintero/terraform-aws-sqs-queue.git)
